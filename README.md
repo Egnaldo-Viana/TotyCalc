@@ -14,3 +14,8 @@ Este projeto foi desenvolvido em **React** e tem como objetivo facilitar o cálc
 
 ## 💡 Objetivo
 Este é um **mini projeto pessoal** criado para estudo e também como uma ferramenta de apoio para a **Oficina do Toty**.
+
+## 📦 Como visualizar
+Acesse o projeto pelo link:  
+**[TotyCalc Online](https://toty-calc.vercel.app/)**  
+
