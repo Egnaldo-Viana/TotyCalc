@@ -17,5 +17,5 @@ Este é um **mini projeto pessoal** criado para estudo e também como uma ferram
 
 ## 📦 Como visualizar
 Acesse o projeto pelo link:  
-**[TotyCalc Online](https://toty-calc.vercel.app/)**  
+**[TotyCalc Online]([https://toty-calc.vercel.app/](https://toty-calc.vercel.app/))**  
 
